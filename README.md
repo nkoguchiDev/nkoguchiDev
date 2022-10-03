@@ -1,11 +1,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkoguchiDev&layout=compact" />
+  <img align="center" alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkoguchiDev&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nkoguchiDev&count_private=true&show_icons=true" />
+  <img align="center" alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nkoguchiDev&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nkoguchiDev)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nkoguchiDev&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Currently active repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nkoguchiDev&repo=testApp)](https://github.com/anuraghazra/github-readme-stats)
