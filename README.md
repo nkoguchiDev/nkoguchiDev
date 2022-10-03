@@ -1,3 +1,6 @@
+<!--[https://metrics.lecoq.io/embed?user=nkoguchiDev]-->
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkoguchiDev&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </a>
