@@ -6,6 +6,9 @@
 </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nkoguchiDev&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![](https://activity-graph.herokuapp.com/graph?username=nkoguchiDev&theme=github)](https://activity-graph.herokuapp.com/graph?username=nkoguchiDev&theme=github)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=nkoguchiDev&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=nkoguchiDev&theme=dark)
+
 
 ### Currently active repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nkoguchiDev&repo=testApp)](https://github.com/anuraghazra/github-readme-stats)
