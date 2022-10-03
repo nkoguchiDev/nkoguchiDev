@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkoguchiDev&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkoguchiDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkoguchiDev&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nkoguchiDev)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nkoguchiDev&repo=testApp)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkoguchiDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Badges
 [![Rating](https://badgen.org/img/atcoder/naokikoguchi/rating/algorithm?style=for-the-badge)](https://atcoder.jp/users/naokikoguchi?contestType=algo)
