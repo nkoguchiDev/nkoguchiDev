@@ -6,7 +6,7 @@
 
 [![Rating](https://badgen.org/img/atcoder/naokikoguchi/rating/algorithm?style=for-the-badge)](https://atcoder.jp/users/naokikoguchi?contestType=algo)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nkoguchiDev&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nkoguchiDev&repo=testApp)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **nkoguchiDev/nkoguchiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
