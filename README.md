@@ -1,5 +1,8 @@
-<!--[https://metrics.lecoq.io/embed?user=nkoguchiDev]-->
+### Hi! I'm nkoguchiDev
+[![Rating](https://badgen.org/img/atcoder/naokikoguchi/rating/algorithm?style=for-the-badge)](https://atcoder.jp/users/naokikoguchi?contestType=algo)
 
+<!--[https://metrics.lecoq.io/embed?user=nkoguchiDev]-->
+![Metrics](/github-metrics.svg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkoguchiDev&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
@@ -15,10 +18,6 @@
 
 ### Currently active repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nkoguchiDev&repo=testApp)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### Badges
-[![Rating](https://badgen.org/img/atcoder/naokikoguchi/rating/algorithm?style=for-the-badge)](https://atcoder.jp/users/naokikoguchi?contestType=algo)
 
 
 <!--
