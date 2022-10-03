@@ -6,7 +6,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nkoguchiDev&repo=testApp)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkoguchiDev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkoguchiDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Badges
 [![Rating](https://badgen.org/img/atcoder/naokikoguchi/rating/algorithm?style=for-the-badge)](https://atcoder.jp/users/naokikoguchi?contestType=algo)
