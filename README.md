@@ -1,5 +1,9 @@
-### Languages used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkoguchiDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkoguchiDev&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nkoguchiDev&count_private=true&show_icons=true" />
+</a>
 
 ### Repository Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkoguchiDev&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -13,9 +17,7 @@
 ### Badges
 [![Rating](https://badgen.org/img/atcoder/naokikoguchi/rating/algorithm?style=for-the-badge)](https://atcoder.jp/users/naokikoguchi?contestType=algo)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkoguchiDev&layout=compact" />
-</a>
+
 <!--
 **nkoguchiDev/nkoguchiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
