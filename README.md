@@ -2,11 +2,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkoguchiDev&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nkoguchiDev&count_private=true&show_icons=true" />
+  <img align="center" alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nkoguchiDev&count_private=true&show_icons=true" />
 </a>
-
-### Repository Status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkoguchiDev&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nkoguchiDev)](https://github.com/ryo-ma/github-profile-trophy)
 
