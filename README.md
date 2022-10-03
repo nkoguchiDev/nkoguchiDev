@@ -31,11 +31,9 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/contributions.svg" />
   </a>
   <a href="https://atcoder.jp/users/naokikoguchi?contestType=algo">
-    <img height="20" src="https://badgen.org/img/atcoder/naokikoguchi/rating/algorithm?style=for-the-badge" />
+    <img height="20" src="https://badgen.org/img/atcoder/naokikoguchi/rating/algorithm?style=plastic" />
   </a>
 </p>
-
-[![Rating](https://badgen.org/img/atcoder/naokikoguchi/rating/algorithm?style=for-the-badge)](https://atcoder.jp/users/naokikoguchi?contestType=algo)
 
 <!--[https://metrics.lecoq.io/embed?user=nkoguchiDev]-->
 ![Metrics](/github-metrics.svg)
