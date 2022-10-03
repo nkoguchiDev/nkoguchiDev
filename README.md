@@ -12,11 +12,11 @@
   <a href="https://stackoverflow.com/users/{userid}/nkoguchiDev">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
-  <a href="https://zenn.dev/yutakatay">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/yutakatay/likes" />
+  <a href="https://zenn.dev/nkoguchi_dev">
+    <img height="20" src="https://zenn.badge.nikaera.com/s/nkoguchi_dev/likes" />
   </a>
-  <a href="https://zenn.dev/yutakatay">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/yutakatay/followers" />
+  <a href="https://zenn.dev/nkoguchi_dev">
+    <img height="20" src="https://zenn.badge.nikaera.com/s/nkoguchi_dev/followers" />
   </a>
   <a href="https://zenn.dev/nkoguchi_dev">
     <img height="20" src="https://zenn.badge.nikaera.com/s/nkoguchi_dev/articles" />
