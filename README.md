@@ -6,12 +6,6 @@
   <a href="https://github.com/nkoguchiDev">
     <img height="20" src="https://img.shields.io/github/followers/nkoguchiDev?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://www.reddit.com/user/nkoguchiDev">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/nkoguchiDev?label=Reddit&logo=reddit&style=flat" />
-  </a>
-  <a href="https://stackoverflow.com/users/20153666/nkoguchidev">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/20153666?label=StackOverflow&logo=stack-overflow&style=flat" />
-  </a>
   <a href="https://zenn.dev/nkoguchi_dev">
     <img height="20" src="https://zenn.badge.nikaera.com/s/nkoguchi_dev/likes" />
   </a>
