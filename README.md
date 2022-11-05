@@ -21,9 +21,6 @@
   <a href="http://qiita.com/nkoguchi">
     <img height="20" src="https://qiita-badge.apiapi.app/s/nkoguchi/contributions.svg" />
   </a>
-  <a href="https://atcoder.jp/users/naokikoguchi?contestType=algo">
-    <img height="20" src="https://badgen.org/img/atcoder/naokikoguchi/rating/algorithm?style=flat" alt="Rating" />
-  </a>
 </p>
 
 <!--[https://metrics.lecoq.io/embed?user=nkoguchiDev]-->
