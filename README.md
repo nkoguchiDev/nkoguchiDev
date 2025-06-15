@@ -6,21 +6,6 @@
   <a href="https://github.com/nkoguchiDev">
     <img height="20" src="https://img.shields.io/github/followers/nkoguchiDev?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://zenn.dev/nkoguchi_dev">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/nkoguchi_dev/likes" />
-  </a>
-  <a href="https://zenn.dev/nkoguchi_dev">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/nkoguchi_dev/followers" />
-  </a>
-  <a href="https://zenn.dev/nkoguchi_dev">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/nkoguchi_dev/articles" />
-  </a>
-  <a href="http://qiita.com/nkoguchi">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/nkoguchi/posts.svg" />
-  </a>
-  <a href="http://qiita.com/nkoguchi">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/nkoguchi/contributions.svg" />
-  </a>
 </p>
 
 <!--[https://metrics.lecoq.io/embed?user=nkoguchiDev]-->
